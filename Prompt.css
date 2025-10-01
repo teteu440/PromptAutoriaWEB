@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+#h21{
+    text-align: left;
+}
+div{
+    display: inline-block;
+    width: auto;
+    left: auto;
+    margin-left: auto;
+}
